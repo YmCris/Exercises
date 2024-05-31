@@ -30,6 +30,10 @@ Si eres estudiante de IPC 1, puedes explorar los diferentes temas y ejercicios p
 **Ingresar con correo institucional:**
 https://drive.google.com/file/d/16ZQrLpv4qta5DrD8_D_k_c2Fvewzn_cd/view?usp=sharing
 
+## Diagrama de Flujo utilizado para los ejercicios:
+**Ingresar con correo institucional:**
+https://drive.google.com/file/d/1tg0ujWJGLPYIrmPWd2p9w3dkrgqpLf6j/view?usp=sharing
+
 ## Enunciados de ejercicios utilizados:
 Estos ejercicios son orientados al paradigma de programación orientada a objetos, por lo que no son ejercicios fáciles, ni cortos sin embargo el realizarlos o intentarlo es una buena forma de ver que contenidos se deben fortalecer.
 **Ingresar con correo institucional:**
